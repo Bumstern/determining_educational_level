@@ -1,0 +1,14 @@
+*~
+.directory
+.idea/
+__pycache__/
+*/__pycache__/
+*.pyc
+venv/
+models/
+images/
+embeds/
+data/
+checkpoints/
+*.npy
+*.pth
