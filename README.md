@@ -67,6 +67,6 @@ Pytorch code for my student research paper: "DETERMINING EDUCATION LEVEL BASED O
 | <img src="https://user-images.githubusercontent.com/36205247/167295900-846b4da8-cd3f-4375-b854-33d5606792b2.png" width="350"> | <img src="https://user-images.githubusercontent.com/36205247/167295905-938d8356-3b60-498c-99b6-73b22189eff3.png" width="350">
 
 
-## Addtional information
+## Additional information
 Need to store dataset outside of project with folder name - "dataset". Dataset consists of two classes "With degree" and "Without degree".
 Each class stores face images with aspect ratio 224x224. 
